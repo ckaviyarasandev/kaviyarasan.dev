@@ -7,7 +7,7 @@
 
 <svelte:head>
 	<link rel="icon" href={favicon} />
-	<title>Kaviyarasan Dev</title>
+	<title>kaviyarasan.dev</title>
 </svelte:head>
 
 {@render children()}
